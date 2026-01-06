@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Сайт с картинкой</title>
+  <meta http-equiv="refresh" content="0; url=https://i.imgur.com/ТВОЯ_КАРТИНКА.gif">
+  <style>
+    body { margin:0; background:black; display:flex; justify-content:center; align-items:center; height:100vh; }
+    img { max-width:100%; max-height:100%; }
+  </style>
+</head>
+<body>
+  <img src="https://i.imgur.com/ТВОЯ_КАРТИНКА.gif" alt="">
+</body>
+</html>
